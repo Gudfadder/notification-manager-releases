@@ -10,6 +10,12 @@ Notification Manager lets you choose separate sounds for:
 - Email notifications
 - Login/startup
 
+It only reads and adds sound to the notifications that occur, it does not replace the notifications nor the sound.
+So it would be wise to turn off the notification sound in the applications you want this app to provide sound for, 
+unless you like hearing different sounds stacked on top of each other.
+
+NB: Turning off notifications for the apps you want this to provide sound for, makes this app unable to function as intended.
+
 ## Latest Release
 **Version 1.1.0**
 
