@@ -1,4 +1,8 @@
 # Notification Manager
+<br>
+<img width="852" height="524" alt="image" src="https://github.com/user-attachments/assets/bcec4dd7-34cc-431c-b565-714eea9d7df0" />
+<br>
+<br>
 
 A lightweight Linux desktop application for customizing notification sounds.
 Notification Manager lets you choose separate sounds for:
